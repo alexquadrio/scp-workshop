@@ -20,8 +20,6 @@ sap.ui.define([
 			var request = $.get({
 			async: false,
 			url: url,
-			// data: {
-			// },
 			dataType: "json",
 			// beforeSend: function (xhr) {
 			// 	xhr.setRequestHeader("Authorization", "Basic " + btoa(email + ":" + password));
